@@ -1,2 +1,2 @@
-# JY_NITC
+###JY_NITC
 An Application for Jesus Youth of NIT Calicut.
